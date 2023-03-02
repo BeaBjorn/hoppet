@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227 174" width="100" height="77">
+	<title>menu_black</title>
+	<defs>
+		<image  width="227" height="174" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOMAAACuBAMAAAA2ZqfNAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwaAoPgAAAA90Uk5TABBwr9//YFDvj3+wz5CA/9KADgAAAN9JREFUeJzt2rEJwlAYReEriGIjlpaKOIK9IPYWeRoEIaD2lo6RJewdwSXsHcUYcYP8N4XnW+BAeElecSV1ZutksipUu7qClaxuDozFlPaf5M2aTKXU8xbTTuqak/lIZ3MyTbRwJ++yvZM/S7mLadNG0v5gH20cn7k7WWhsLmZS35zcVp/1pzf5qpJDa/FQ/6JPxmJ++V4Ljr6LyFQAAAAAAAAAAADwYpbSOGYpUZilRGGWEoRZSgxmKTGYpQAAAAAAAAAAACAAs5TGMUuJwiwlCrOUIMxSYjBLifE3s5Q3EAW+B7CQB2wAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
